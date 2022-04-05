@@ -169,4 +169,4 @@ def key_pressed():
 
 if __name__ == "__main__":
   builtins.title = "Conway's Game of Life"
-  run(frame_rate)
+  run()
